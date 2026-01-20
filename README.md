@@ -32,6 +32,7 @@ Mi enfoque está en el **Backend**: me gusta entender cómo funcionan las cosas 
 | Proyecto | Estado | Descripción / Tecnologías |
 | :--- | :--- | :--- |
 | **📁 [SistemaVentas](https://github.com/MarcoAntaniom/SistemaVentas)** | 🔴 Suspendido | Sistema de gestión de ventas.<br>🛠 **Tech:** Python, Oracle XE. |
+| **🏥 [PyCesfam](https://github.com/MarcoAntaniom/PyCesfam)** | 🟡 En desarrollo | Sistema orientado a la gestión de datos tipo CESFAM.<br>🛠 **Tech:** Python, MySQL. |
 
 ---
 
