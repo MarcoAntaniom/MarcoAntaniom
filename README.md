@@ -1,4 +1,4 @@
-# Hola, soy Marco 👋
+# Hola, soy Marco Milanca 👋
 ## Estudiante de Analista Programador en INACAP 🇨🇱
 
 ---
